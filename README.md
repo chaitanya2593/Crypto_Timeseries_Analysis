@@ -42,7 +42,7 @@ We are Frankfurt School (FS) students who are currently pursing Masters in Appli
 We have followed both classification and regression approach to understand which is more accurate with the predictions. We attached the notebooks for both in the repo.
 
 
-![Product Name Screen Shot](https://github.com/chaitanya2593/Crypto_Timeseries_Analysis/blob/main/charah_overview.png)
+![Product Name Screen Shot](https://github.com/chaitanya2593/Crypto_Timeseries_Analysis/blob/main/overview.png)
 
 
 
