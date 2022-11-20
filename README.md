@@ -49,13 +49,21 @@ We have followed both classification and regression approach to understand which
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Contributor (in the alphabetical order of last name)
-  * [Chloe Dang](https://github.com/chloe68)
-  * [Eduardo Garcia](https://github.com/egarcia00)
-  * [Chaitanya Madduri](https://github.com/chaitanya2593)
-  * Nari Kim
-  * Vishnu Prabhakar
-  * Yumeng Zhang
+<!-- CONTACT -->
+## Contact
+
+Students from Frankfurt School - MADS class of 2023.
+
+1. [Eduardo Garcia](https://github.com/egarcia00), 
+2. [Nari Kim](https://github.com/gooodmood), 
+3. [Chloe Dang](https://github.com/chloe68),
+4. [Vishnu Prabhakar](https://github.com/vishnuprabhakar619), 
+5. [VS Chaitanya Madduri](https://github.com/chaitanya2593), 
+6. [Yumeng Zhang](https://github.com/ppage0211)
+
+Project Link: [https://github.com/chaitanya2593/Crypto_Timeseries_Analysis.git](https://github.com/chaitanya2593/Crypto_Timeseries_Analysis.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 
 ### Built With
@@ -136,25 +144,6 @@ Overall end-to-end process has been divided into 5 steps. we have applied wide r
 Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Students from Frankfurt school - MADS class of 2023.
-
-1. [Eduardo Garcia](https://github.com/egarcia00), 
-2. [Nari Kim](https://github.com/gooodmood), 
-3. [Thi Anh Ba Dang](https://github.com/chloe68),
-4. [Vishnu Prabhakar](https://github.com/vishnuprabhakar619), 
-5. [VS Chaitanya Madduri](https://github.com/chaitanya2593), 
-6. [Yumeng Zhang](https://github.com/ppage0211)
-
-Project Link: [https://github.com/chaitanya2593/Crypto_Timeseries_Analysis.git](https://github.com/chaitanya2593/Crypto_Timeseries_Analysis.git)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->  
