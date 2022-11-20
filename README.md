@@ -49,7 +49,14 @@ We have followed both classification and regression approach to understand which
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### Contributor (in the alphabetical order of last name)
+  * [Chloe Dang](https://github.com/chloe68)
+  * [Eduardo Garcia](https://github.com/egarcia00)
+  * [Chaitanya Madduri](https://github.com/chaitanya2593)
+  * Nari Kim
+  * Vishnu Prabhakar
+  * Yumeng Zhang
+  
 
 ### Built With
 
