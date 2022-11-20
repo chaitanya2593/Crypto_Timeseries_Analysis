@@ -52,13 +52,13 @@ We have followed both classification and regression approach to understand which
 <!-- CONTACT -->
 ## Contact
 
-Students from Frankfurt School - MADS class of 2023.
+Students from Frankfurt School - MADS class of 2023 (in the alphabetical order of first name)
 
-1. [Eduardo Garcia](https://github.com/egarcia00), 
-2. [Nari Kim](https://github.com/gooodmood), 
-3. [Chloe Dang](https://github.com/chloe68),
-4. [Vishnu Prabhakar](https://github.com/vishnuprabhakar619), 
-5. [VS Chaitanya Madduri](https://github.com/chaitanya2593), 
+1. [Eduardo Garcia](https://github.com/egarcia00)
+2. [Nari Kim](https://github.com/gooodmood)
+3. [Chloe Dang](https://github.com/chloe68)
+4. [Vishnu Prabhakar](https://github.com/vishnuprabhakar619)
+5. [VS Chaitanya Madduri](https://github.com/chaitanya2593) 
 6. [Yumeng Zhang](https://github.com/ppage0211)
 
 Project Link: [https://github.com/chaitanya2593/Crypto_Timeseries_Analysis.git](https://github.com/chaitanya2593/Crypto_Timeseries_Analysis.git)
